@@ -1,6 +1,9 @@
 name=IRsonycode
-version=1.2.0
-author=Ali najafian
-sentence=<p color=blue>The box of "#define" codes for control a Sony TV</p>
-paragraph=The box of "#define" codes for control a Sony TV.
-architectures=any arduino boards
+version=1.0.0
+author=Master
+maintainer=Master
+sentence=the IRsonycode is the KEYWORDS of hex files for sony televisions. 
+paragraph=the IRsonycode is the KEYWORDS of hex files for sony televisions. 
+category=Signal Input/Output
+url=https://github.com/Master811129/arduino-IRsonycode.git
+architectures=ANY
