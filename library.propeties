@@ -1,0 +1,6 @@
+name=IRsonycode
+version=1.2.0
+author=Ali najafian
+sentence=<p color=blue>The box of "#define" codes for control a Sony TV</p>
+paragraph=The box of "#define" codes for control a Sony TV.
+architectures=any arduino boards
