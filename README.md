@@ -3,72 +3,68 @@ the IRsonycode is the KEYWORDS of hex files for sony televisions.
 
 
 the commands:
-POWER      0xa90
+POWER  ->    0xa90
 
-B0       0x910
+B0    ->   0x910
 
-B1       0x10
+B1    ->   0x10
 
-B2       0x810
+B2    ->   0x810
 
-B3       0x410 
+B3    ->   0x410 
 
-B4       0xc10
+B4    ->   0xc10
 
-B5       0x210
+B5    ->   0x210
 
-B6       0xa10
+B6    ->   0xa10
 
-B7       0x610
+B7    ->   0x610
 
-B8       0xe10
+B8    ->   0xe10
 
-B9       0x110
+B9    ->   0x110
 
-VOL_UP     0x490
+VOLUME_UP (also you can use "VOL_UP")->   0x490
 
-VOLUME_UP   0x490
+VOLUME_DOWN (also you can use "VOL_DOWN")->  0Xc90
 
-VOL_DOWN    0xc90
+CHANNEL_UP ->   0x90
 
-VOLUME_DOWN  0Xc90
+CHANNEL_DOWN ->  0x890 
 
-CHANNEL_UP   0x90
+PICTURE_UP ->   0x190
 
-CHANNEL_DOWN  0x890 
+PICTURE_DOWN ->  0x990 
 
-PICTURE_UP   0x190
+TVVIDEO ->   0xA50
 
-PICTURE_DOWN  0x990 
+CLEAR  ->    0x2d0
 
-TVVIDEO    0xA50
+JUMP  ->    0xdd0
 
-CLEAR      0x2d0
+MTS  ->     0xe90
 
-JUMP      0xdd0
+DISPLAY  ->   0x5d0
 
-MTS       0xe90
+SLEEP  ->    0x5d0 
 
-DISPLAY     0x5d0
+MUTE  ->    0x290
 
-SLEEP      0x5d0 
+REWIND  ->   0xd9a
 
-MUTE      0x290
+PLAY   ->   0x59a 
 
-REWIND     0xd9a
+PAUSE ->    0x99a
 
-PLAY      0x59a 
+STOP  ->    0x19a
 
-PAUSE     0x99a
+RECORD  ->   0xb9a
 
-STOP      0x19a
+FF   ->     0x39a
 
-RECORD     0xb9a
+ENTER  ->   0xd10 
 
-FF        0x39a
+EJECT ->    0x69a
 
-ENTER     0xd10 
-
-EJECT     0x69a
-
-BIT       12
+BIT   ->    12
