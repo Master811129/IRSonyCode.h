@@ -25,9 +25,9 @@ B8    ->   0xe10
 
 B9    ->   0x110
 
-VOLUME_UP (also you can use "VOL_UP")->   0x490
+VOLUME_UP  ->  0x490
 
-VOLUME_DOWN (also you can use "VOL_DOWN")->  0Xc90
+VOLUME_DOWN ->  0Xc90
 
 CHANNEL_UP ->   0x90
 
