@@ -15,9 +15,7 @@
                #define      B7       0x610
                #define      B8       0xe10
                #define      B9       0x110
-               #define    VOL_UP     0x490
                #define   VOLUME_UP   0x490
-               #define   VOL_DOWN    0xc90
                #define  VOLUME_DOWN  0Xc90
                #define  CHANNEL_UP   0x90
                #define CHANNEL_DOWN  0x890 
